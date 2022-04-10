@@ -1,0 +1,107 @@
+* {
+    font-family: 'Courier New', Courier, sans-serif;
+}
+
+body{
+    background-color: #7a6c64;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background-color: #baa595;
+    color:#7a6c64;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    font-size:20px;
+    font-weight: bold;
+    color: #baa595;
+}
+
+h3 {
+    text-align: center;
+    font-size:40px;
+    font-weight: bold;
+    color: #baa595;
+}
+
+.p-pizza{
+    text-align: center;
+    font-size:15px;
+    font-weight: bold;
+    color: #baa595;  
+}
+
+.title-ingr{
+    text-align: center;
+    font-size:40px;
+    font-weight: bold;
+    color: #baa595;  
+}
+
+.title-steps{
+    text-align: center;
+    font-size:40px;
+    font-weight: bold;
+    color: #baa595;  
+}
+
+div.list1 {
+    text-align: center;
+}
+
+div.listpizza{
+    text-align: center;
+}
+
+.ulhome{
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    background: #282829;
+    padding: 30px;
+    color: #949491;
+    
+}
+
+.ulpizza{
+    display: inline-block;
+    text-align: center;
+    font-size: 30px;
+    background: #282829;
+    padding: 30px;
+    color: #919194;
+}
+
+.ulpizza li{
+    background: #baa595;
+    color: #282829;
+    margin: 5px;
+}
+
+ul li {
+    background: #949491;
+    color: #7a6c64;
+    margin: 5px;
+}
+
+
+
+.home_button{
+    text-align: center;
+}
+
+.home{
+    height:50px;
+    width:200px;
+    font-size: 32px;
+    background-color: #baa595;
+}
