@@ -1,107 +1,89 @@
-* {
-    font-family: 'Courier New', Courier, sans-serif;
-}
-
-body{
-    background-color: #7a6c64;
+body {
+    background-color: #caa958;
+    font-family: Verdana;
+    color:#675020;
 }
 
 h1 {
     text-align: center;
-    font-size: 50px;
-    background-color: #baa595;
-    color:#7a6c64;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    font-size: 40px;
 }
 
 h2 {
     text-align: center;
-    font-size:20px;
-    font-weight: bold;
-    color: #baa595;
+    font-size: 25px;
 }
 
 h3 {
     text-align: center;
-    font-size:40px;
-    font-weight: bold;
-    color: #baa595;
-}
-
-.p-pizza{
-    text-align: center;
-    font-size:15px;
-    font-weight: bold;
-    color: #baa595;  
-}
-
-.title-ingr{
-    text-align: center;
-    font-size:40px;
-    font-weight: bold;
-    color: #baa595;  
-}
-
-.title-steps{
-    text-align: center;
-    font-size:40px;
-    font-weight: bold;
-    color: #baa595;  
-}
-
-div.list1 {
-    text-align: center;
-}
-
-div.listpizza{
-    text-align: center;
-}
-
-.ulhome{
-    display: inline-block;
-    text-align: center;
     font-size: 30px;
-    background: #282829;
-    padding: 30px;
-    color: #949491;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: dotted;
+}
+
+.p-text {
+    text-align: center;
+}
+
+.home {
+    font-size: 30px;
+    margin-inline: 455px;
+}
+
+.recipes{
+    font-size: 25px;
+    margin-inline: 455px;
+    padding-top: 2px;
+}
+
+
+
+ul {
+    text-align: center;
+    list-style: inside;
+    background: #c08529;
+    padding: 20px;
+    border-style: dotted;
+    
+
+}
+ul li {
+    display: block;
+    background: #d8a741;
+    color: #675020;
+    margin: 5px;
+}
+
+ol{
+    text-align: left;
+    background: #c08529;
+    border-style: dotted;
     
 }
 
-.ulpizza{
-    display: inline-block;
-    text-align: center;
-    font-size: 30px;
-    background: #282829;
-    padding: 30px;
-    color: #919194;
-}
-
-.ulpizza li{
-    background: #baa595;
-    color: #282829;
-    margin: 5px;
-}
-
-ul li {
-    background: #949491;
-    color: #7a6c64;
-    margin: 5px;
+ol li {
+    background: #d8a741;
+    margin-left: 1px;
+    color: #675020;
 }
 
 
 
-.home_button{
-    text-align: center;
+.homebutton {
+    text-align: center;  
+    width: 150px;  
+    height: 70px;
+    margin: auto;
+    
 }
 
-.home{
-    height:50px;
-    width:200px;
-    font-size: 32px;
-    background-color: #baa595;
+button {
+    font-size: 25px;
+    background-color: #c08529;
 }
+
